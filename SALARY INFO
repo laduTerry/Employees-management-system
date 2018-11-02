@@ -7,7 +7,7 @@ package logins;
 
 /**
  *
- * @author MELODY
+ * @author MELODY AND MISS LADU
  */
 public class Salary extends javax.swing.JFrame {
 
