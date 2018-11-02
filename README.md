@@ -2,7 +2,7 @@ import java.awt.event.WindowEvent;
 
 /**
  *
- * @author MELODY
+ * @author MELODY AND MISS LADU
  */
 public class Logins extends javax.swing.JFrame {
 
