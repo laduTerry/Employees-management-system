@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author miss ladu
+ * @author MISS LADU AND MELODY
  */
 public class addemployees extends javax.swing.JFrame {
 
